@@ -31,6 +31,7 @@ pip install git+https://github.com/lionfish0/seedtrack.git
 ```
 usage: seedtrack [-h]
 ```
+(will update later)
 
 ## Example commandline
 
