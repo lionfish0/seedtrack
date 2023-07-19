@@ -1,8 +1,6 @@
 # seedtrack
 Tracks seed falling in video
 
-![Example of a frame showing the tracked seed, using the tool](example.png)
-
 # Requirements
 
 For the tracking component you will need:
